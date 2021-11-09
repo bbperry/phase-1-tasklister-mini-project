@@ -40,3 +40,15 @@ button {
   border: 1px solid black;
   text-align: center;
 }
+
+.Low-Priority {
+  background-color: rgb(0, 255, 213)
+}
+
+.Med-Priority {
+  background-color: rgb(247, 255, 173)
+}
+
+.High-Priority {
+  background-color: rgb(245, 142, 142)
+}
